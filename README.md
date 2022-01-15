@@ -1,4 +1,4 @@
 # HelloWorld_Java
-First week assignment
+Practise of very basics of Java and version control.
 
-Java course's first assignment. Purpose is to practise very basics of Java and version control.
+The first assignment of object oriented programming with Java course.
